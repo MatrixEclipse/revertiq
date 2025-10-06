@@ -1,0 +1,99 @@
+RevertIQ — Vibe Coding Exercise
+================================
+
+📦 revertiq/
+│
+├── 📄 README.md                     ← START HERE: Main overview
+├── ⚡ QUICKSTART.md                 ← 15-minute setup guide
+├── 🎯 PROJECT_OVERVIEW.md           ← Visual project summary
+├── 📋 SUMMARY.md                    ← Complete package summary
+├── 🤝 CONTRIBUTING.md               ← How to share your work
+├── 🔒 .gitignore                    ← Git ignore patterns
+├── 📊 PROJECT_STRUCTURE.txt         ← This file
+│
+└── 📚 docs/
+    │
+    ├── 📖 README.md                 ← Documentation index
+    │
+    ├── 🛠️  00-implementation-guide.md
+    │   └── Phase-by-phase checklist (30 days)
+    │
+    ├── 📐 01-product-requirements.md
+    │   └── Math foundation: z-scores, walk-forward, FDR, OU process
+    │
+    ├── 🔌 02-api-specification.md
+    │   └── Complete REST API contract with schemas
+    │
+    ├── 🏗️  03-system-architecture.md
+    │   └── System design, data flow, deployment
+    │
+    ├── 🎨 04-ux-design.md
+    │   └── User experience philosophy & personas
+    │
+    ├── 🖼️  05-wireframe-flows.md
+    │   └── UI/CLI interaction flows & wireframes
+    │
+    ├── 📦 06-starter-templates.md
+    │   └── Project structures & boilerplate code
+    │
+    ├── ✅ 07-validation-testing.md
+    │   └── Test scenarios & validation guide
+    │
+    └── ❓ 08-faq.md
+        └── Frequently asked questions
+
+
+Your Implementation Goes Here:
+===============================
+
+Suggested structure (Python example):
+
+📦 revertiq/
+├── src/
+│   ├── api/          ← FastAPI endpoints
+│   ├── core/         ← Signal, stats, walk-forward
+│   ├── data/         ← Polygon client, storage
+│   ├── workers/      ← Async job workers
+│   └── utils/        ← Provenance, calendar
+│
+├── tests/            ← Unit & integration tests
+├── cli/              ← CLI tool
+├── requirements.txt  ← Python dependencies
+├── docker-compose.yml
+└── Dockerfile
+
+
+Quick Navigation:
+=================
+
+🚀 Getting Started
+  → README.md
+  → QUICKSTART.md
+  → docs/00-implementation-guide.md
+
+📖 Core Specs
+  → docs/01-product-requirements.md
+  → docs/02-api-specification.md
+  → docs/03-system-architecture.md
+
+🛠️  Implementation Help
+  → docs/06-starter-templates.md
+  → docs/07-validation-testing.md
+  → docs/08-faq.md
+
+🎨 Design
+  → docs/04-ux-design.md
+  → docs/05-wireframe-flows.md
+
+
+Stats:
+======
+📄 Total Files: 16
+📝 Documentation Pages: ~70
+💻 Code Examples: 15+
+✅ Test Scenarios: 10+
+⏱️  Implementation Time: 2-4 weeks
+🎯 Difficulty: Intermediate to Advanced
+
+
+Ready to build? Start with README.md! 🚀
